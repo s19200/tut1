@@ -13,8 +13,8 @@ namespace tutorial1
             var httpClient = new HttpClient();
 
             var response = await httpClient.GetAsync(websiteURL);
-            if(response.IsSuccessStatusCode)
-            {
+            if (response.IsSuccessStatusCode)
+            { 
                 var content = await response.Content.ReadAsStringAsync();
                 var regex = new Regex("[a-z]+[a-z0-9]*@[a-z0-9]+\\.[a-z]+", RegexOptions.IgnoreCase);
 
