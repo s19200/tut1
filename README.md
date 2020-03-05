@@ -1,1 +1,1 @@
-Oleksandra Krupnoa s19200 gr16c
+Oleksandra Krupnova s19200 gr16c
