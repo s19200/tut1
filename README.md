@@ -1,1 +1,1 @@
-# tut1
+Oleksandra Krupnoa s19200 gr16c
